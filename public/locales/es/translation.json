@@ -1,0 +1,91 @@
+{
+  "home": "Inicio",
+  "bio": "Bio",
+  "workshops": "Talleres",
+  "contact": "Contacto",
+  "loading": "....cargando",
+  "contactTypes": "Formas de Contacto",
+  "socialNetwors": "Redes Sociales",
+  "cafecitoApp": "Si apoyas el contenido gratuito, invitame un cafecito",
+  "somethingWentWrong": "Perdón, ha ocurrido un error.",
+  "politics": "Políticas de Privacidad",
+  "tyc": "Términos y Condiciones",
+  "copyrightText": "Todos los derechos reservados.",
+  "subscribe":"Subscribite",
+  "membresia":"Membresía",
+  "language": {
+    "en": "Inglés",
+    "es": "Español"
+  },
+  "alquimia": {
+    "title":"Alquimia",
+    "subtitle":"Inscripciones abiertas hasta fines de Junio del 2023",
+    "description": "El camino de la Alquimia es un viaje de autoconocimiento muy profundo.<br />Para los alquimistas la mente, es nuestro laboratorio, ese mundo mágico donde cualquier cosa puede ocurrir y donde todo puede crearse.<br />La primera etapa de la Alquimia es reconocer que lo que llamamos “problemas” son lecciones que se presentan en nuestra vida para que “modifiquemos algo”, <span class=text-yellow>“O APRENDÉS LA LECCIÓN O APRENDES LA LESION”</span>.<br />Los antiguos <span class=text-yellow>ALQUIMISTAS</span> dejaron “pistas” a través de mitos, simbologías y alegorías para entender la <span class=text-yellow>HISTORIA</span> detrás de la <span class=text-yellow>HISTORIA</span> plasmada frente a los ojos de todos, pero solo entendida por aquellos que fueron instruidos en secreto.<br />Así como se enseñaba en otros tiempos, así se enseña en la <span class=text-yellow>ESCUELA NEFER</span>, enseñando los secretos plasmados en <span class=text-yellow>PIEDRA</span> llamados <span class=text-yellow>CATEDRALES</span>: libros mudos que nos revelarán profecías y enseñanzas para quien quiere iniciar el viaje interior hacia la transmutación y renacimiento del ser, un proceso que te invitará aprender herramientas que te ayudarán a modificar cualquier aspecto de tu <span class=text-yellow>REALIDAD</span> y comprender el arte de la materialización.<br />Alquimia es un llamado interior que nos propone emprender el viaje de la tierra al cielo...<br /><br /><i>“Somos polvo de estrellas nuestra esencia es brillar con luz propia”</i><br /><br /> Para más info mirá este <a href='https://www.youtube.com/watch?v=tjQuUHFNXto' target='_blank'>video</a>"
+  },
+  "talleres": {
+    "title": "Talleres Online",
+    "description": "Talleres 100% online y grabados donde apenderás romper creencias limitantes, a formular las metas, cómo analizar tu nombre, a descubrir que hay detrás de tus “problemas” y como usar la crisis como oportunidad.<br> Más info sobre los talleres <a href='/#/workshops'>aquí</a>",
+    "note":"<span class=text-yellow>TODOS LOS TALLERES</span> son <span class=text-yellow>BÁSICOS</span> (es decir que cualquier persona puede realizarlo), una vez que <span class=text-yellow>ABONAS</span> el taller accedes a un grupo cerrado de Facebook donde encontrarás el material teórico - práctico y la grabación del taller.",
+    "metas2019": {
+      "title": "Metas 2019",
+      "description": "Se realizó a fines del 2018, es un taller donde aprenderás <span class=text-yellow>ARMAR METAS</span>, descubrir la <span class=text-yellow>IMPORTANCIA DE LA PALABRA</span> y aprender a <span class=text-yellow>ORDENAR</span>. <br> Más info sobre el taller <a href='https://api.whatsapp.com/send?phone=542914197428&text=Hola! Me gustaría obtener información sobre el taller \"Metas 2019\". Muchas gracias!' target='_blank'>aquí</a>"
+    },
+    "metas2020": {
+      "title": "Metas 2020",
+      "description": "Nivel <span class=text-yellow>AVANZADO</span>, ideal para los que ya hicieron el taller <span class=text-yellow>METAS 2019</span> y quieren aprender <span class=text-yellow>TÍPS</span> y herramientas nuevas. Aprenderás los <span class=text-yellow>RITUALES</span> antiguos de la época para hacer de <span class=text-yellow>DI-CIEMBRE</span> un mes de siembra como era en la antiguedad. <br> Más info sobre el taller <a href='https://api.whatsapp.com/send?phone=542914197428&text=Hola! Me gustaría obtener información sobre el taller \"Metas 2020\". Muchas gracias!' target='_blank'>aquí</a>"
+    },
+    "metasDinero": {
+      "title": "Metas y Dinero",
+      "description": "Aprenderás a vaciarte de creencias limitantes que te alejan del dinero, aprenderás tips de Neuroventas que te ayudarán a concretar tener más clientes. Obtendrás claves que te ayudarán a descubrir el origen de tus carencias y herramientas para programar tu mente en <span class=text-yellow>GENERAR</span> más dinero. <br/><span class=text-yellow>VALORACIÓN Y AUTOESTIMA</span>. Comprender que el dinero es un reflejo de tu autovaloración y que el primer paso para romper esa adicción emocional es <span class=text-yellow>INVERTIR EN TI MISM@</span>, en tu <span class=text-yellow>MENTE</span> y en darte el <span class=text-yellow>VALOR</span> hacia concretar tus <span class=text-yellow>METAS</span>. <br/> El poder de la palabra y la acción enfocada en el dinero. Ritual de prosperidad básico  para que realices en tu negocio.<br> Más info sobre el taller <a href='https://api.whatsapp.com/send?phone=542914197428&text=Hola! Me gustaría obtener información sobre el taller \"Metas y Dinero\". Muchas gracias!' target='_blank'>aquí</a>"
+    },
+    "metasAmor": {
+      "title": "Metas y Amor",
+      "description": "Taller básico donde trabajamos relaciones amorosas, las ex parejas, la sexualidad y cómo concretar una relación amorosa saludable conectando con la propia valoración. <br>Aprenderás a vaciarte de creencias limitantes que te alejan del AMOR, descubrir el significado oculto del <span class=text-yellow>AMOR</span>. Aprenderás tips de neurociencia que te ayudarán a entender como funciona la química del enamoramiento. Obtendrás claves que te ayudarán a descubrir el origen de tus carencias emocionales que se proyectan en tus relaciones amorosas. <br/><span class=text-yellow>VALORACIÓN Y AUTOESTIMA</span> ¿Qué es el amor propio? “apropiarnos del amor”, en este taller lo <span class=text-yellow>COMPRENDERÁS EN NIVELES MÁS PROFUNDOS</span>. <br/> El poder de la palabra y la acción enfocada a formalizar relaciones amorosas. <br/>Las ex parejas ¿Por qué nos cuesta tanto soltar?, ¿Por qué repites historias?. <br/>La soledad ¿Cómo desactivarla? <br> Más info sobre el taller <a href='https://api.whatsapp.com/send?phone=542914197428&text=Hola! Me gustaría obtener información sobre el taller \"Metas y Amor\". Muchas gracias!' target='_blank'>aquí</a>"
+    },
+    "alquimizarLaRealidad": {
+      "title": "Alquimizar la Realidad",
+      "description": "En este taller aprenderás a usar la <span class=text-yellow>CRISIS</span> como <span class=text-yellow>OPORTUNIDAD</span>, ideal para los que sienten que nunca logran sus objetivos <span class=text-yellow>“que las cosas se traban”</span>.<br> Más info sobre el taller <a href='https://api.whatsapp.com/send?phone=542914197428&text=Hola! Me gustaría obtener información sobre el taller \"Alquimizar la Realidad\". Muchas gracias!' target='_blank'>aquí</a>"
+    },
+    "soltarElPasado": {
+      "title": "Soltar el pasado",
+      "description": " Taller básico que trabaja el ritual de fin de año, cumpleaños y el porqué repetimos historias<br> Más info sobre el taller <a href='https://api.whatsapp.com/send?phone=542914197428&text=Hola! Me gustaría obtener información sobre el taller \"Soltar el Pasado\". Muchas gracias!' target='_blank'>aquí</a>"
+    },    
+    "usarEnvidiaFavor": {
+      "title": "Cómo usar la ENVIDIA y la NEGATIVIDAD a tu favor",
+      "description": "Ideal para personas negativas que se quejan o que piensan que <span class=text-yellow>“la envidia”</span> traba sus proyectos, en este talleres aprenderás a entender cómo funciona la energía.<br/>Aprenderás tips y herramientas de alquimia que te <span class=text-yellow>ENSEÑARÁN</span> cómo usar la <span class=text-yellow>ENERGÍA</span> “negativa” para aprovecharla a tu favor y materializar tus objetivos.<br> Más info sobre el taller <a href='https://api.whatsapp.com/send?phone=542914197428&text=Hola! Me gustaría obtener información sobre el taller \"Cómo usar la negatividad y la envidia a tu favor\". Muchas gracias!' target='_blank'>aquí</a>"
+    },
+    "ordenaTuInterior": {
+      "title": "Ordena tu interior (especial SÍNTOMAS)",
+      "description": "Taller sobre síntomas físicos, aprender a escuchar la enfermedad y lo que nuestro cuerpo expresa a través del síntoma.<br> Más info sobre el taller <a href='https://api.whatsapp.com/send?phone=542914197428&text=Hola! Me gustaría obtener información sobre el taller \"Ordena tu Interior\". Muchas gracias!' target='_blank'>aquí</a>"
+    },
+    "programateParaEstarDelgado": {
+      "title": "Programate para estar delgado ",
+      "description": "Aprenderás el simbolismo que marca la balanza y su relación con el conflicto emocional que deberás trabajar para programarte para estar delgado, ejercicios básicos para romper con la adiccion  emocional que se proyecta en la comida.<br/><span class=text-yellow>APRENDERÁS</span> las <span class=text-yellow>CLAVES</span> principales que te <span class=text-yellow>AYUDARÁN</span> a romper con patrones mentales que te hacen engordar y cómo <span class=text-yellow>PROGR-AMARTE</span> para estar <span class=text-yellow>DELGAD@</span>.<br/><span class=text-yellow>COMPRENDERÁS</span> que el <span class=text-yellow>ALIMENTO</span> no es el causante del sobrepeso, si no el <span class=text-yellow>“COMO COMEMOS”</span>.<br/> <span class=text-yellow>POR EJEMPLO</span> queremos postres como un <span class=text-yellow>POST - ESTRÉS</span> como solución a conflictos emocionales, comemos <span class=text-yellow>APURADOS</span> para no <span class=text-yellow>HABLAR</span>… pues tu relación con la comida tiene mucho que ver con tus palabras.<br>En este taller aprenderás las <span class=text-yellow>BASES</span> para programar tu mente y tu cuerpo y dirigir tu realidad hacia la materialización del cuerpo que quieres.<br/>Descubriremos que el factor que más hace engordar es la carencia de <span class=text-yellow>AMOR</span>… por eso este taller está enfocado especialmente es <span class=text-yellow>PROGR-AMARTE</span> para amar tu cuerpo, vaciarte del estrés que te hace engordar y comprender el origen emocional del sobrepeso.<br/><span class=text-yellow>ESTE TALLER ES UN PASO A LA ACCIÓN </span>. <br/>El objetivo es <span class=text-yellow>ESTAR DELGAD@</span>… no quedarnos en “porque tenemos kilos de más”… llegó el momento de <span class=text-yellow>TOMAR ACCIÓN Y ENTRENAR LA MENTE PARA OBTENER EL CUERPO QUE QUIERES</span>. <br> Más info sobre el taller <a href='https://api.whatsapp.com/send?phone=542914197428&text=Hola! Me gustaría obtener información sobre el taller \"Programate para estar Delgad@\". Muchas gracias!' target='_blank'>aquí</a>"
+    },
+    "senales1": {
+      "title": "Señales 1",
+      "description": "El lenguaje de los profetas, es un taller avanzado que nos ayudará a entender la sincronía, la intuición, los sueños y las señales que se presentan en el camino que nos orientan a descubrir <span class=text-yellow>“un más allá”</span>.<br/>La palabra <span class=text-yellow>PROPHETA</span> significa \"predecir\", decir con anticipo.<br/>Aprender a escucharnos es <span class=text-yellow>CLAVE</span> para aprender a <span class=text-yellow>PRE-DECIR</span> y comprender como <span class=text-yellow>\"el lenguaje\"</span> ordena la realidad, además de nuestras palabras existen otros lenguajes: las famosas <span class=text-yellow>\"señales\"</span> que se presentan en el camino, una especie oráculo que nos invita a ver más allá y predecir <span class=text-yellow>HACIA DONDE VAMOS</span>, si nuestra <span class=text-yellow>META</span> esta direccionada o no, si realmente estamos en el camino o no.<br/>Este taller te ayudará a comprender las primeras claves para que entiendas las <span class=text-yellow>SEÑALES</span> que se te presentan en el camino hacia materializar tu <span class=text-yellow>META</span>.<br> Más info sobre el taller <a href='https://api.whatsapp.com/send?phone=542914197428&text=Hola! Me gustaría obtener información sobre el taller \"Señales 1\". Muchas gracias!' target='_blank'>aquí</a>"
+    },
+    "senales2": {
+      "title": "Señales 2",
+      "description": "Aprender a <span class=text-yellow>DAR</span> y aprender a <span class=text-yellow>RECIBIR</span>.<br/>El lenguaje de los profetas 2 nos cuenta sobre la lectura de manos… un mapa <span class=text-yellow>“hacia revelar el pasado, el presente y el futuro”</span>.<br/><p class=text-yellow><i class=text-uppercase>Para hacer este taller tienes que tener realizado el taller señales 1, ya que es una continuación.</i></p>Más info sobre el taller <a href='https://api.whatsapp.com/send?phone=542914197428&text=Hola! Me gustaría obtener información sobre el taller \"Señales 2\". Muchas gracias!' target='_blank'>aquí</a>"
+    },
+    "senales3": {
+      "title": "Señales 3",
+      "description": "<span class=text-yellow>“EL PODER DEL NOMBRE”</span>, analizar tu nombre y tu historia, el secreto de tus sonidos y como aprender a encontrar las señales ocultas en tu nombre.<br/>Este taller es <span class=text-yellow>ÚNICO</span> en su <span class=text-yellow>NIVEL</span> y nos invitará a <span class=text-yellow>REVELAR</span> grandes secretos…<br/>Será un <span class=text-yellow>ANTES</span> y un <span class=text-yellow>DESPUÉS…</span><br/>Analiza tu nombre y descubre tu misión y las sincronicidades que se ocultan.<br/><p class=text-yellow><i class=text-uppercase>Para hacer este taller tienes que tener realizado el taller señales 2, ya que es una continuación.</i></p> Más info sobre el taller <a href='https://api.whatsapp.com/send?phone=542914197428&text=Hola! Me gustaría obtener información sobre el taller \"Señales 3\". Muchas gracias!' target='_blank'>aquí</a>"
+    },
+    "genealogia": {
+      "title": "Genealogia 'La trama de los traumas'",
+      "description": "Un taller que te brindará herramientas para descubrir el origen de síntomas y conflictos heredados.<br/><span class=text-yellow>Historias heredadas</span>: síntomas y conflictos que repetimos de manera inconsciente. Aprenderás a analizar el árbol genealógico desde la historia personal <span class=text-yellow>“siguiendo la trama del dolor o síntoma”</span>.<br/>Aprenderás el proceso de solución de traumas y conflictos. <br/><span class=text-yellow>¿Sientes el llamado hacia comprender la historia familiar?</span>.<br> Más info sobre el taller <a href='https://api.whatsapp.com/send?phone=542914197428&text=Hola! Me gustaría obtener información sobre el taller \"Genealogía\". Muchas gracias!' target='_blank'>aquí</a>"
+    }
+  },
+  "membership": {
+    "title":"Membresía ALQUIMIA",
+    "shortDescription": "Un espacio íntimo y privado para quien quiere seguir aprendiendo de las enseñanzas alquímicas.<br />  Más info sobre la membresía <a href='/#/membership'>aquí</a></a>",
+    "description": "Un espacio de aprendizaje, reflexiones y recursos de autoconocimiento <span class=\"text-red icon-text\">♥️</span>.<br /><br /><span class=\"icon-text\">✨</span> <span class=text-yellow>Aulas abiertas solo para miembros</span>: aprenderemos el lenguaje oculto de monumentos históricos, la historia oculta de los mitos y él labor del oratorio para descubrir el origen de síntomas y conflictos. <br/> <span class=\"icon-text\">✨</span><span class=text-yellow> En este nuevo espacio enseñaré</span>: Rituales, herramientas y ejercicios que te ayudarán en tu proceso interior.<br /><br/>Si te interesa ser miembro de la membresía haz clic <a href='https://api.whatsapp.com/send?phone=542914197428&text=Hola! Me gustaría obtener información sobre la \"Membresía\". Muchas gracias!' target='_blank'>aquí</a>"
+  },
+  "subscribite": {
+    "title": "Subscribite",
+    "description": "Recibí consejos, reflexiones de forma periódica"
+  }
+}
